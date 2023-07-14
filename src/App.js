@@ -1,6 +1,6 @@
-import MyButton from "./componenets/Question1";
-import Avatar from "./componenets/Question2";
-import DiagramHooksExample from "./componenets/Question3";
+import MyButton from "./COMPONENTS/Question1";
+import Avatar from "./COMPONENTS/Question2";
+import DiagramHooksExample from "./COMPONENTS/Question3";
 
 function App() {
   const user = {
